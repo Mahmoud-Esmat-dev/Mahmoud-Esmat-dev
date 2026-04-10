@@ -45,5 +45,5 @@
 ---
 
 ## 📫 Let's Connect!
-- 📧 Email: [Your Email Here]
-- 💼 LinkedIn: [Your Profile Link Here]
+
+- 💼 LinkedIn: [[Your Profile Link Here](https://www.linkedin.com/in/mahmoud-esmat-942470381?utm_source=share_via&utm_content=profile&utm_medium=member_android)]
